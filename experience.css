@@ -1,0 +1,27 @@
+.gridMid{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(19em, auto));
+    width: 97%;
+    text-align: justify;
+    background-color: white;
+    padding: 2em;
+}
+
+.gridMid1{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(20em, auto));
+    width: 97%;
+    text-align: justify;
+    background-color: white;
+    padding: 2em;
+}
+
+.gridMid2{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(15em, auto));
+    width: 97%;
+    text-align: justify;
+    background-color: white;
+    padding: 2em;
+    grid-gap: 5em;
+}

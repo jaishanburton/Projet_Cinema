@@ -1,0 +1,34 @@
+Sur toute les pages de notre site, nous avons obligatoirement sur le dessus un menu interactif qui nous permet d'aller sur les autres pages HTMLs ainsi qu'une zone dÉdiÉe pour nous contacter sur Instagram.
+
+Sur notre "Home" page, nous avons un diaporama de film. On peut cliquer sur l'un des films prÉsent dans ce diaporama pour ouvrir les details de celui-ci. Tout en bas de la page, nous avons Également un acces rapide pour acheter des tickets de film.
+
+Dans notre page "Film", nous avons la liste des 9 films disponibles dans notre cinema. Nous avons la posibilitÉ de cliquer sur l'un d'entre eux pour avoir ses informations.
+
+Cette nouvelle page nous donne des renseignements telque le resumÉ du film, le casting, la posibilitÉ d'acheter des tickets du film mais aussi voir le trailer. Également si on le souhaite, on peut avoir des informations supplÉmentaires sur les acteurs en cliquant sur leur photo, notre site nous renvoie directement sur leurs pages wikipedia.
+
+Sur la page "Experience", nous donnons toute les nouveautÉs prÉsentes dans notre cinÉma.
+
+La page "Contact" contiendra nos informations personnelles d'AndrÉas et Hugo ainsi qu'un auestionnaire de satisfactions pour les utilisateurs.
+
+Dans notre Page "My Account", l'utilisateur aura la posibilitÉ de ses crÉer un compte et rensigner ses informations personnelles. Il pourra Égalemnt voir l'historique des tickets qu'il a deja achetÉ.
+
+La page "Cart" contiendra le panier de l'utilisateur avec les tickets qu'il a choisit. Il pourra par la suite procÉder au paiement.
+
+
+*************************************************************************************************************
+
+On every page of our website, we have a mandatory interactive menu on top that allows us to go to other HTML pages as well as a dedicated area to contact us on Instagram.
+
+On our "Home" page, we have a film slideshow. You can click on any of the films in the slideshow to open the details. At the bottom of the page, we also have a quick access to buy film tickets.
+
+In our "Film" page, we have a list of the 9 films available in our cinema. We have the possibility to click on one of them to get its information.
+
+This new page gives us information such as the summary of the film, the cast, the possibility to buy tickets for the film and also to see the trailer. Also, if you want to have more information about the actors by clicking on their picture, our site links you directly to their wikipedia pages.
+
+On the "Experience" page, we give all the news in our cinema.
+
+The "Contact" page will contain our personal information of AndrÉas and Hugo as well as a satisfaction questionnaire for users.
+
+In our "My Account" page, the user will have the possibility to create an account and enter his personal information. They will also be able to see the history of tickets they have already purchased.
+
+The "Cart" page will contain the user's shopping cart with the tickets they have chosen. The user can then proceed to payment.

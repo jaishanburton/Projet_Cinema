@@ -1,0 +1,16 @@
+
+<?php
+$user = 'root';
+$password = ''; //To be completed if you have set a password to root
+$database = 'a&hcinema'; //To be completed to connect to a database. The database must exist.
+$port =3306; //Default must be NULL to use default port
+$mysqli = new mysqli('localhost', $user, $password, $database, $port);
+
+if ($mysqli->connect_error) {
+    die('Connect Error (' . $mysqli->connect_errno . ') '
+            . $mysqli->connect_error);
+}
+$sql = "INSERT INTO `movie` (`movieid`, `moviename`, `moviesynopsis`, `movieduration`, `moviecasting1`, `moviecasting2`, `moviecasting3`, `moviecasting4`, `moviecasting5`) VALUES ('10', 'test film', 'synopsis', NULL, 'acteur 1', 'acteur 2', 'acteur 3', 'acteur 4', 'acteur 5')";
+$result = $mysqli->query($sql);
+$mysqli->close();
+?>

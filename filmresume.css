@@ -1,0 +1,19 @@
+.gridMovieResume{
+    display: grid;
+    grid-template-columns: 25em auto;
+    width: 96%;
+    text-align: justify;
+    background-color: white;
+    grid-gap: 4em;
+    padding: 2em;
+}
+
+.gridMovieCast{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, auto));
+    width: 96%;
+    text-align: center;
+    background-color: white;
+    grid-gap: 2em;
+    padding: .3em;
+}

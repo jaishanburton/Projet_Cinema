@@ -1,0 +1,15 @@
+SOURCES
+
+https://www.thewebblinders.in/programming/article/fatal-error-call-to-member-function-fetch_assoc-on-boolean-6066
+
+https://boostcamp.omneseducation.com/course/view.php?id=227119
+
+https://www.youtube.com/watch?v=0wvrlOyGlq0&t=363s
+
+https://stacklima.com/comment-appeler-la-fonction-php-en-cliquant-sur-un-bouton/#:~:text=Appel%20d'une%20fonction%20PHP,fonction%20array_key_exists()%20est%20appel%C3%A9e.
+
+https://codingstatus.com/notice-trying-to-get-property-num-rows-of-non-object-in-php/
+
+https://www.odeon.co.uk/experiences/
+
+Wikipedia for all information about the films
